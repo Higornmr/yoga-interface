@@ -90,12 +90,13 @@ text-align: center;
 color: #000000;
 }
 
+.img-link {
+    text-decoration: none;
+    margin: 0 18px 0 18px;
+}
+
 .container {
     text-align: center;
     margin: 18px auto 18px auto;
 }
 
-.img-link {
-    text-decoration: none;
-    margin: 0 18px 0 18px;
-}
